@@ -2,3 +2,8 @@ flask
 gunicorn
 google-cloud-speech
 soundfile
+flask
+soundfile
+google-cloud-speech
+torch
+numpy
